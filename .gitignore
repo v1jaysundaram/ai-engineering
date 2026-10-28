@@ -1,0 +1,50 @@
+# Environments / secrets
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.Python
+
+# Tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.uv-cache/
+
+# Notebooks / IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Vector stores & eval artifacts
+chroma/
+chroma-db/
+chroma_db/
+.chroma/
+*.faiss
+*.index
+data/vectorstore/
+outputs/
+results/
+*.log
+
+# DeepEval run cache (local test-run results, regenerated every run)
+.deepeval/
+
+# Claude Code local settings
+.claude/
+
+# Empty root placeholder
+main.py

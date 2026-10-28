@@ -1,0 +1,236 @@
+[
+  {
+    "id": "g001",
+    "input": "Can I repay my personal loan early, either in part or in full, and when might fees apply?",
+    "expected_output": "Yes, you can repay your personal loan early in part or in full at any time. Fees may apply if you repay more than £8,000 early within a 12-month period, in which case the early settlement fee can be up to 1 month’s interest.",
+    "context": [
+      "3.3 Early Repayment Personal loans can be repaid early in part or in full at any time. Early repayment of more than £8,000 in a 12-month period may incur an early settlement fee of up to 1 month's interest, in line with standard consumer credit regulations.\n3.4 Missed Payments A missed loan payment is reported to credit reference agencies after 30 days of non-payment. Customers experiencing financial difficulty are encouraged to contact the support team before a payment is missed, as short-term repayment plans may be available.",
+      "Section 3 - Loans\n3.1 Personal Loans Personal loans are available from £1,000 to £25,000, with repayment terms between 12 and 60 months. Representative APR is 8.9%, though the actual rate offered depends on the applicant's credit history and loan amount.\n3.2 Eligibility Applicants must be at least 18 years old, a UK resident, and have held a Sunrise Bank current account for a minimum of 3 months. A soft credit check is performed at the quote stage and does not affect the applicant's credit score; a hard credit check is only performed if the applicant proceeds with a full application."
+    ]
+  },
+  {
+    "id": "g002",
+    "input": "After how many days is a missed loan payment reported, and what help may be available?",
+    "expected_output": "A missed loan payment is reported after 30 days of non-payment. If you’re struggling, contact the support team before you miss a payment, as short-term repayment plans may be available.",
+    "context": [
+      "3.3 Early Repayment Personal loans can be repaid early in part or in full at any time. Early repayment of more than £8,000 in a 12-month period may incur an early settlement fee of up to 1 month's interest, in line with standard consumer credit regulations.\n3.4 Missed Payments A missed loan payment is reported to credit reference agencies after 30 days of non-payment. Customers experiencing financial difficulty are encouraged to contact the support team before a payment is missed, as short-term repayment plans may be available.",
+      "Section 3 - Loans\n3.1 Personal Loans Personal loans are available from £1,000 to £25,000, with repayment terms between 12 and 60 months. Representative APR is 8.9%, though the actual rate offered depends on the applicant's credit history and loan amount.\n3.2 Eligibility Applicants must be at least 18 years old, a UK resident, and have held a Sunrise Bank current account for a minimum of 3 months. A soft credit check is performed at the quote stage and does not affect the applicant's credit score; a hard credit check is only performed if the applicant proceeds with a full application."
+    ]
+  },
+  {
+    "id": "g003",
+    "input": "What are your phone and live chat hours, including Saturday limits, Sunday and United Kingdom bank holiday closures, and any twenty four seven app support?",
+    "expected_output": "Phone and live chat support are available Monday to Friday, 8am to 8pm, and Saturday, 9am to 5pm. They’re closed on Sundays and UK bank holidays, but urgent card freezing and fraud reporting are available 24/7 in the app.",
+    "context": [
+      "Section 4 - General Policy\n4.1 Customer Support Hours Phone and live chat support are available Monday to Friday, 8am-8pm, and Saturday, 9am-5pm. The support line is closed on Sundays and UK bank holidays. Urgent card freezing and fraud reporting are available 24/7 via the app.",
+      "4.2 Complaints Procedure Complaints can be raised via the app, by phone, or in writing. Sunrise Bank aims to resolve complaints within 3 working days; complex complaints may take up to 8 weeks, in line with regulatory timelines. If a customer remains unsatisfied, they may refer the complaint to the Financial Ombudsman Service.\n4.3 Data Privacy Customer data is processed in accordance with UK GDPR. Customers can request a copy of their personal data or ask for it to be deleted (subject to regulatory retention requirements) via the app's privacy settings or by contacting support directly."
+    ]
+  },
+  {
+    "id": "g004",
+    "input": "How do I make a complaint about the app?",
+    "expected_output": "You can make a complaint about the app through the app itself, by phone, or in writing. Sunrise Bank aims to resolve complaints within 3 working days, although more complex cases can take up to 8 weeks.",
+    "context": [
+      "Section 4 - General Policy\n4.1 Customer Support Hours Phone and live chat support are available Monday to Friday, 8am-8pm, and Saturday, 9am-5pm. The support line is closed on Sundays and UK bank holidays. Urgent card freezing and fraud reporting are available 24/7 via the app.",
+      "4.2 Complaints Procedure Complaints can be raised via the app, by phone, or in writing. Sunrise Bank aims to resolve complaints within 3 working days; complex complaints may take up to 8 weeks, in line with regulatory timelines. If a customer remains unsatisfied, they may refer the complaint to the Financial Ombudsman Service.\n4.3 Data Privacy Customer data is processed in accordance with UK GDPR. Customers can request a copy of their personal data or ask for it to be deleted (subject to regulatory retention requirements) via the app's privacy settings or by contacting support directly."
+    ]
+  },
+  {
+    "id": "g005",
+    "input": "If my debit card is lost, how do I freeze it right away?",
+    "expected_output": "Freeze it immediately in the mobile app using the “Freeze Card” toggle, which takes effect instantly. After that, you can order a replacement card free of charge.",
+    "context": [
+      "Section 2 - Cards\n2.1 Debit Cards All Everyday and Plus Account holders receive a free contactless debit card, issued within 5-7 working days of account opening. Debit cards can be used for ATM withdrawals, in-store payments, and online purchases.\n2.2 Lost or Stolen Cards Customers should immediately freeze their card via the mobile app's \"Freeze Card\" toggle, which takes effect instantly. A replacement card can then be ordered free of charge and typically",
+      "1.2 Opening an Account New customers can open an Everyday or Plus Account online in under 10 minutes using a valid government-issued ID and proof of UK address dated within the last 3 months. Savings Accounts can only be opened by existing customers who already hold an Everyday or Plus Account.\n1.3 Checking Your Balance Customers can check their balance at any time through the mobile app, online banking portal, or by calling the automated phone line. Balances shown in the app update in real time; balances shown via phone banking may be delayed by up to 15 minutes for pending transactions."
+    ]
+  },
+  {
+    "id": "g006",
+    "input": "How can I view my account balance in the mobile app or online banking portal?",
+    "expected_output": "You can view your account balance at any time in the mobile app or through the online banking portal. The mobile app shows your balance in real time.",
+    "context": [
+      "Section 2 - Cards\n2.1 Debit Cards All Everyday and Plus Account holders receive a free contactless debit card, issued within 5-7 working days of account opening. Debit cards can be used for ATM withdrawals, in-store payments, and online purchases.\n2.2 Lost or Stolen Cards Customers should immediately freeze their card via the mobile app's \"Freeze Card\" toggle, which takes effect instantly. A replacement card can then be ordered free of charge and typically",
+      "1.2 Opening an Account New customers can open an Everyday or Plus Account online in under 10 minutes using a valid government-issued ID and proof of UK address dated within the last 3 months. Savings Accounts can only be opened by existing customers who already hold an Everyday or Plus Account.\n1.3 Checking Your Balance Customers can check their balance at any time through the mobile app, online banking portal, or by calling the automated phone line. Balances shown in the app update in real time; balances shown via phone banking may be delayed by up to 15 minutes for pending transactions."
+    ]
+  },
+  {
+    "id": "g007",
+    "input": "How can I close my account through the app or support?",
+    "expected_output": "You can close your account either by contacting support or by using the “Close Account” setting in the app. Make sure your balance is £0 and there are no pending transactions, and allow up to 5 working days for the closure to be processed.",
+    "context": [
+      "1.4 Overdrafts Everyday and Plus Accounts are eligible for an arranged overdraft of up to £500, subject to an eligibility check. The arranged overdraft interest rate is 19.9% EAR. Unarranged overdraft use (exceeding the agreed limit) incurs a flat fee of £5 per day, capped at £80 per month.\n1.5 Closing an Account Accounts can be closed by contacting support or via the app's \"Close Account\" setting, provided the balance is £0 and there are no pending transactions. Closure requests take up to 5 working days to process.",
+      "1.2 Opening an Account New customers can open an Everyday or Plus Account online in under 10 minutes using a valid government-issued ID and proof of UK address dated within the last 3 months. Savings Accounts can only be opened by existing customers who already hold an Everyday or Plus Account.\n1.3 Checking Your Balance Customers can check their balance at any time through the mobile app, online banking portal, or by calling the automated phone line. Balances shown in the app update in real time; balances shown via phone banking may be delayed by up to 15 minutes for pending transactions."
+    ]
+  },
+  {
+    "id": "g008",
+    "input": "Can I close my account through support or in the app only if my balance is zero and there are no pending transactions?",
+    "expected_output": "Yes. You can close your account either by contacting support or using the app’s “Close Account” setting, but only if your balance is £0 and there are no pending transactions.",
+    "context": [
+      "1.4 Overdrafts Everyday and Plus Accounts are eligible for an arranged overdraft of up to £500, subject to an eligibility check. The arranged overdraft interest rate is 19.9% EAR. Unarranged overdraft use (exceeding the agreed limit) incurs a flat fee of £5 per day, capped at £80 per month.\n1.5 Closing an Account Accounts can be closed by contacting support or via the app's \"Close Account\" setting, provided the balance is £0 and there are no pending transactions. Closure requests take up to 5 working days to process.",
+      "1.2 Opening an Account New customers can open an Everyday or Plus Account online in under 10 minutes using a valid government-issued ID and proof of UK address dated within the last 3 months. Savings Accounts can only be opened by existing customers who already hold an Everyday or Plus Account.\n1.3 Checking Your Balance Customers can check their balance at any time through the mobile app, online banking portal, or by calling the automated phone line. Balances shown in the app update in real time; balances shown via phone banking may be delayed by up to 15 minutes for pending transactions."
+    ]
+  },
+  {
+    "id": "g009",
+    "input": "Do you reimburse unauthorized transactions if I report them within 13 months, as long as I was not fraudulent or grossly negligent?",
+    "expected_output": "Yes. Sunrise Bank will reimburse unauthorised transactions reported within 13 months, as long as you did not act fraudulently or with gross negligence, such as sharing your PIN or one-time passcode.",
+    "context": [
+      "Sunrise Bank - Customer Help Knowledge Base",
+      "4.4 Fraud Protection Sunrise Bank guarantees to reimburse customers for unauthorised transactions reported within 13 months, provided the customer has not acted fraudulently or with gross negligence (e.g. sharing their PIN or one-time passcode with someone else).\n4.5 Fee Summary Sunrise Bank does not charge monthly account fees on the Everyday or Plus Account. Fees apply only for unarranged overdraft use, international card transactions (2.5% of transaction value), and replacement cards requested for reasons other than loss/theft (£5 per card)."
+    ]
+  },
+  {
+    "id": "g010",
+    "input": "What fees apply to Sunrise Bank's Everyday and Plus accounts, including monthly fees, international card fees, overdraft fees, and replacement card fees?",
+    "expected_output": "Sunrise Bank does not charge any monthly fees on its Everyday or Plus accounts. Fees only apply for unarranged overdraft use, international card transactions at 2.5% of the transaction value, and replacement cards requested for reasons other than loss or theft at £5 per card.",
+    "context": [
+      "Sunrise Bank - Customer Help Knowledge Base",
+      "4.4 Fraud Protection Sunrise Bank guarantees to reimburse customers for unauthorised transactions reported within 13 months, provided the customer has not acted fraudulently or with gross negligence (e.g. sharing their PIN or one-time passcode with someone else).\n4.5 Fee Summary Sunrise Bank does not charge monthly account fees on the Everyday or Plus Account. Fees apply only for unarranged overdraft use, international card transactions (2.5% of transaction value), and replacement cards requested for reasons other than loss/theft (£5 per card)."
+    ]
+  },
+  {
+    "id": "g011",
+    "input": "How do I open an Everyday Account online in less than ten minutes, and what ID and proof of address do I need?",
+    "expected_output": "You can open an Everyday Account online in under 10 minutes by completing the online application. You’ll need a valid government-issued ID and proof of your UK address dated within the last 3 months.",
+    "context": [
+      "1.2 Opening an Account New customers can open an Everyday or Plus Account online in under 10 minutes using a valid government-issued ID and proof of UK address dated within the last 3 months. Savings Accounts can only be opened by existing customers who already hold an Everyday or Plus Account.\n1.3 Checking Your Balance Customers can check their balance at any time through the mobile app, online banking portal, or by calling the automated phone line. Balances shown in the app update in real time; balances shown via phone banking may be delayed by up to 15 minutes for pending transactions.",
+      "Section 1 - Bank Accounts\n1.1 Account Types Sunrise Bank offers three personal account types: the Everyday Account (no minimum balance, free debit card), the Plus Account (requires a minimum balance of £1,500, earns 1.2% AER on balances up to £5,000), and the Savings Account (no debit card, earns 2.5% AER, limited to 3 free withdrawals per month)."
+    ]
+  },
+  {
+    "id": "g012",
+    "input": "How can I check my balance in the app, through online banking, or by calling the automated phone line?",
+    "expected_output": "You can check your balance anytime in the mobile app, through the online banking portal, or by calling the automated phone line. The app shows your balance in real time, while phone banking may be up to 15 minutes behind for pending transactions.",
+    "context": [
+      "1.2 Opening an Account New customers can open an Everyday or Plus Account online in under 10 minutes using a valid government-issued ID and proof of UK address dated within the last 3 months. Savings Accounts can only be opened by existing customers who already hold an Everyday or Plus Account.\n1.3 Checking Your Balance Customers can check their balance at any time through the mobile app, online banking portal, or by calling the automated phone line. Balances shown in the app update in real time; balances shown via phone banking may be delayed by up to 15 minutes for pending transactions.",
+      "Section 1 - Bank Accounts\n1.1 Account Types Sunrise Bank offers three personal account types: the Everyday Account (no minimum balance, free debit card), the Plus Account (requires a minimum balance of £1,500, earns 1.2% AER on balances up to £5,000), and the Savings Account (no debit card, earns 2.5% AER, limited to 3 free withdrawals per month)."
+    ]
+  },
+  {
+    "id": "g013",
+    "input": "Do you offer mortgages directly, or only through the Home tab in the app with an external broker?",
+    "expected_output": "Sunrise Bank does not offer mortgages directly. You can access its mortgage referral service through the app’s Home tab, where it partners with an external broker.",
+    "context": [
+      "3.5 Mortgages Sunrise Bank does not currently offer mortgage products directly but provides a mortgage referral service in partnership with an external broker, accessible via the app's \"Home\" tab.",
+      "Section 3 - Loans\n3.1 Personal Loans Personal loans are available from £1,000 to £25,000, with repayment terms between 12 and 60 months. Representative APR is 8.9%, though the actual rate offered depends on the applicant's credit history and loan amount.\n3.2 Eligibility Applicants must be at least 18 years old, a UK resident, and have held a Sunrise Bank current account for a minimum of 3 months. A soft credit check is performed at the quote stage and does not affect the applicant's credit score; a hard credit check is only performed if the applicant proceeds with a full application."
+    ]
+  },
+  {
+    "id": "g014",
+    "input": "Do I need to have had a Sunrise Bank current account for at least 3 months to apply?",
+    "expected_output": "Yes. To apply, you must be at least 18, a UK resident, and have held a Sunrise Bank current account for at least 3 months.",
+    "context": [
+      "3.5 Mortgages Sunrise Bank does not currently offer mortgage products directly but provides a mortgage referral service in partnership with an external broker, accessible via the app's \"Home\" tab.",
+      "Section 3 - Loans\n3.1 Personal Loans Personal loans are available from £1,000 to £25,000, with repayment terms between 12 and 60 months. Representative APR is 8.9%, though the actual rate offered depends on the applicant's credit history and loan amount.\n3.2 Eligibility Applicants must be at least 18 years old, a UK resident, and have held a Sunrise Bank current account for a minimum of 3 months. A soft credit check is performed at the quote stage and does not affect the applicant's credit score; a hard credit check is only performed if the applicant proceeds with a full application."
+    ]
+  },
+  {
+    "id": "g015",
+    "input": "Which account does not come with a debit card, pays 2.5 percent AER, and only allows 3 free withdrawals?",
+    "expected_output": "The Savings Account. It does not come with a debit card, pays 2.5% AER, and allows 3 free withdrawals per month.",
+    "context": [
+      "Section 1 - Bank Accounts\n1.1 Account Types Sunrise Bank offers three personal account types: the Everyday Account (no minimum balance, free debit card), the Plus Account (requires a minimum balance of £1,500, earns 1.2% AER on balances up to £5,000), and the Savings Account (no debit card, earns 2.5% AER, limited to 3 free withdrawals per month).",
+      "4.4 Fraud Protection Sunrise Bank guarantees to reimburse customers for unauthorised transactions reported within 13 months, provided the customer has not acted fraudulently or with gross negligence (e.g. sharing their PIN or one-time passcode with someone else).\n4.5 Fee Summary Sunrise Bank does not charge monthly account fees on the Everyday or Plus Account. Fees apply only for unarranged overdraft use, international card transactions (2.5% of transaction value), and replacement cards requested for reasons other than loss/theft (£5 per card)."
+    ]
+  },
+  {
+    "id": "g016",
+    "input": "What minimum balance is required to keep Sunrise Bank's Plus Account open?",
+    "expected_output": "The Plus Account requires a minimum balance of £1,500 to keep it open. It also pays 1.2% AER on balances up to £5,000.",
+    "context": [
+      "Section 1 - Bank Accounts\n1.1 Account Types Sunrise Bank offers three personal account types: the Everyday Account (no minimum balance, free debit card), the Plus Account (requires a minimum balance of £1,500, earns 1.2% AER on balances up to £5,000), and the Savings Account (no debit card, earns 2.5% AER, limited to 3 free withdrawals per month).",
+      "4.4 Fraud Protection Sunrise Bank guarantees to reimburse customers for unauthorised transactions reported within 13 months, provided the customer has not acted fraudulently or with gross negligence (e.g. sharing their PIN or one-time passcode with someone else).\n4.5 Fee Summary Sunrise Bank does not charge monthly account fees on the Everyday or Plus Account. Fees apply only for unarranged overdraft use, international card transactions (2.5% of transaction value), and replacement cards requested for reasons other than loss/theft (£5 per card)."
+    ]
+  },
+  {
+    "id": "g017",
+    "input": "What are the repayment term range, minimum and maximum loan amount, and representative APR for a personal loan?",
+    "expected_output": "Personal loans range from £1,000 to £25,000, with repayment terms from 12 to 60 months, and the representative APR is 8.9%. The actual rate you’re offered may vary based on your credit history and the loan amount.",
+    "context": [
+      "Section 3 - Loans\n3.1 Personal Loans Personal loans are available from £1,000 to £25,000, with repayment terms between 12 and 60 months. Representative APR is 8.9%, though the actual rate offered depends on the applicant's credit history and loan amount.\n3.2 Eligibility Applicants must be at least 18 years old, a UK resident, and have held a Sunrise Bank current account for a minimum of 3 months. A soft credit check is performed at the quote stage and does not affect the applicant's credit score; a hard credit check is only performed if the applicant proceeds with a full application.",
+      "Section 1 - Bank Accounts\n1.1 Account Types Sunrise Bank offers three personal account types: the Everyday Account (no minimum balance, free debit card), the Plus Account (requires a minimum balance of £1,500, earns 1.2% AER on balances up to £5,000), and the Savings Account (no debit card, earns 2.5% AER, limited to 3 free withdrawals per month)."
+    ]
+  },
+  {
+    "id": "g018",
+    "input": "Do I need to have a Sunrise Bank current account for at least three months before I can apply?",
+    "expected_output": "Yes. To apply, you must be at least 18, a UK resident, and have held a Sunrise Bank current account for at least 3 months.",
+    "context": [
+      "Section 3 - Loans\n3.1 Personal Loans Personal loans are available from £1,000 to £25,000, with repayment terms between 12 and 60 months. Representative APR is 8.9%, though the actual rate offered depends on the applicant's credit history and loan amount.\n3.2 Eligibility Applicants must be at least 18 years old, a UK resident, and have held a Sunrise Bank current account for a minimum of 3 months. A soft credit check is performed at the quote stage and does not affect the applicant's credit score; a hard credit check is only performed if the applicant proceeds with a full application.",
+      "Section 1 - Bank Accounts\n1.1 Account Types Sunrise Bank offers three personal account types: the Everyday Account (no minimum balance, free debit card), the Plus Account (requires a minimum balance of £1,500, earns 1.2% AER on balances up to £5,000), and the Savings Account (no debit card, earns 2.5% AER, limited to 3 free withdrawals per month)."
+    ]
+  },
+  {
+    "id": "g019",
+    "input": "My card is lost. How do I freeze it in the app and get a free replacement?",
+    "expected_output": "Freeze your card immediately in the mobile app using the “Freeze Card” toggle, which takes effect instantly. Then order a replacement card in the app; it’s free of charge and usually arrives within 3–5 working days.",
+    "context": [
+      "arrives within 3-5 working days. If fraudulent transactions are suspected, customers should also contact the fraud team directly.\n2.3 Card Limits The default daily ATM withdrawal limit is £300, and the default daily contactless payment limit is £100. Both limits can be increased up to £1,000 per day by verified customers through the app, subject to an identity re-verification step.",
+      "Section 2 - Cards\n2.1 Debit Cards All Everyday and Plus Account holders receive a free contactless debit card, issued within 5-7 working days of account opening. Debit cards can be used for ATM withdrawals, in-store payments, and online purchases.\n2.2 Lost or Stolen Cards Customers should immediately freeze their card via the mobile app's \"Freeze Card\" toggle, which takes effect instantly. A replacement card can then be ordered free of charge and typically"
+    ]
+  },
+  {
+    "id": "g020",
+    "input": "Can I raise my cash withdrawal limit to £1,000 a day in the app after verifying my ID again?",
+    "expected_output": "Yes. Verified customers can increase the daily ATM withdrawal limit from £300 up to £1,000 in the app, and doing so requires an identity re-verification step.",
+    "context": [
+      "arrives within 3-5 working days. If fraudulent transactions are suspected, customers should also contact the fraud team directly.\n2.3 Card Limits The default daily ATM withdrawal limit is £300, and the default daily contactless payment limit is £100. Both limits can be increased up to £1,000 per day by verified customers through the app, subject to an identity re-verification step.",
+      "Section 2 - Cards\n2.1 Debit Cards All Everyday and Plus Account holders receive a free contactless debit card, issued within 5-7 working days of account opening. Debit cards can be used for ATM withdrawals, in-store payments, and online purchases.\n2.2 Lost or Stolen Cards Customers should immediately freeze their card via the mobile app's \"Freeze Card\" toggle, which takes effect instantly. A replacement card can then be ordered free of charge and typically"
+    ]
+  },
+  {
+    "id": "g021",
+    "input": "Will Sunrise Bank pay me back for transactions I did not make if I report them within 13 months and I was not fraudulent or grossly negligent?",
+    "expected_output": "Yes. Sunrise Bank will reimburse unauthorised transactions reported within 13 months as long as you did not act fraudulently or with gross negligence, such as sharing your PIN or one-time passcode.",
+    "context": [
+      "4.4 Fraud Protection Sunrise Bank guarantees to reimburse customers for unauthorised transactions reported within 13 months, provided the customer has not acted fraudulently or with gross negligence (e.g. sharing their PIN or one-time passcode with someone else).\n4.5 Fee Summary Sunrise Bank does not charge monthly account fees on the Everyday or Plus Account. Fees apply only for unarranged overdraft use, international card transactions (2.5% of transaction value), and replacement cards requested for reasons other than loss/theft (£5 per card).",
+      "Section 1 - Bank Accounts\n1.1 Account Types Sunrise Bank offers three personal account types: the Everyday Account (no minimum balance, free debit card), the Plus Account (requires a minimum balance of £1,500, earns 1.2% AER on balances up to £5,000), and the Savings Account (no debit card, earns 2.5% AER, limited to 3 free withdrawals per month)."
+    ]
+  },
+  {
+    "id": "g022",
+    "input": "Is there a monthly account fee for Sunrise Bank’s Everyday Account?",
+    "expected_output": "No. Sunrise Bank does not charge a monthly account fee on the Everyday Account.",
+    "context": [
+      "4.4 Fraud Protection Sunrise Bank guarantees to reimburse customers for unauthorised transactions reported within 13 months, provided the customer has not acted fraudulently or with gross negligence (e.g. sharing their PIN or one-time passcode with someone else).\n4.5 Fee Summary Sunrise Bank does not charge monthly account fees on the Everyday or Plus Account. Fees apply only for unarranged overdraft use, international card transactions (2.5% of transaction value), and replacement cards requested for reasons other than loss/theft (£5 per card).",
+      "Section 1 - Bank Accounts\n1.1 Account Types Sunrise Bank offers three personal account types: the Everyday Account (no minimum balance, free debit card), the Plus Account (requires a minimum balance of £1,500, earns 1.2% AER on balances up to £5,000), and the Savings Account (no debit card, earns 2.5% AER, limited to 3 free withdrawals per month)."
+    ]
+  },
+  {
+    "id": "g023",
+    "input": "How can I make a complaint to Sunrise Bank, and how long does it take to get a response?",
+    "expected_output": "You can make a complaint through the app, by phone, or in writing. Sunrise Bank aims to resolve complaints within 3 working days, but more complex cases can take up to 8 weeks.",
+    "context": [
+      "4.2 Complaints Procedure Complaints can be raised via the app, by phone, or in writing. Sunrise Bank aims to resolve complaints within 3 working days; complex complaints may take up to 8 weeks, in line with regulatory timelines. If a customer remains unsatisfied, they may refer the complaint to the Financial Ombudsman Service.\n4.3 Data Privacy Customer data is processed in accordance with UK GDPR. Customers can request a copy of their personal data or ask for it to be deleted (subject to regulatory retention requirements) via the app's privacy settings or by contacting support directly.",
+      "4.4 Fraud Protection Sunrise Bank guarantees to reimburse customers for unauthorised transactions reported within 13 months, provided the customer has not acted fraudulently or with gross negligence (e.g. sharing their PIN or one-time passcode with someone else).\n4.5 Fee Summary Sunrise Bank does not charge monthly account fees on the Everyday or Plus Account. Fees apply only for unarranged overdraft use, international card transactions (2.5% of transaction value), and replacement cards requested for reasons other than loss/theft (£5 per card)."
+    ]
+  },
+  {
+    "id": "g024",
+    "input": "How can I make a complaint to Sunrise?",
+    "expected_output": "You can make a complaint to Sunrise Bank through the app, by phone, or in writing. They aim to resolve complaints within 3 working days, though complex cases can take up to 8 weeks.",
+    "context": [
+      "4.2 Complaints Procedure Complaints can be raised via the app, by phone, or in writing. Sunrise Bank aims to resolve complaints within 3 working days; complex complaints may take up to 8 weeks, in line with regulatory timelines. If a customer remains unsatisfied, they may refer the complaint to the Financial Ombudsman Service.\n4.3 Data Privacy Customer data is processed in accordance with UK GDPR. Customers can request a copy of their personal data or ask for it to be deleted (subject to regulatory retention requirements) via the app's privacy settings or by contacting support directly.",
+      "4.4 Fraud Protection Sunrise Bank guarantees to reimburse customers for unauthorised transactions reported within 13 months, provided the customer has not acted fraudulently or with gross negligence (e.g. sharing their PIN or one-time passcode with someone else).\n4.5 Fee Summary Sunrise Bank does not charge monthly account fees on the Everyday or Plus Account. Fees apply only for unarranged overdraft use, international card transactions (2.5% of transaction value), and replacement cards requested for reasons other than loss/theft (£5 per card)."
+    ]
+  },
+  {
+    "id": "g025",
+    "input": "What are common reasons my card might be declined, and is there a fee if a card payment is declined?",
+    "expected_output": "Common reasons your card might be declined are insufficient funds, going over your daily limit, having the card frozen, or the merchant’s terminal flagging the payment for manual review. There is no fee if a card payment is declined.",
+    "context": [
+      "2.4 Declined Transactions Common reasons a card payment is declined: insufficient funds, exceeding the daily limit, the card being frozen, or the merchant's payment terminal flagging the transaction for manual review. Declined transactions do not incur a fee.\n2.5 Credit Cards Sunrise Bank's credit card product (Sunrise Rewards Card) has a variable APR between 21.9% and 34.9%, depending on the applicant's credit assessment. It offers 1% cashback on all purchases and has no annual fee for the first 12 months.",
+      "4.4 Fraud Protection Sunrise Bank guarantees to reimburse customers for unauthorised transactions reported within 13 months, provided the customer has not acted fraudulently or with gross negligence (e.g. sharing their PIN or one-time passcode with someone else).\n4.5 Fee Summary Sunrise Bank does not charge monthly account fees on the Everyday or Plus Account. Fees apply only for unarranged overdraft use, international card transactions (2.5% of transaction value), and replacement cards requested for reasons other than loss/theft (£5 per card)."
+    ]
+  },
+  {
+    "id": "g026",
+    "input": "Does Sunrise Bank charge a fee for declined card payments, including manual review declines?",
+    "expected_output": "No. Sunrise Bank says declined card transactions do not incur a fee, including declines caused by a merchant terminal flagging the payment for manual review.",
+    "context": [
+      "2.4 Declined Transactions Common reasons a card payment is declined: insufficient funds, exceeding the daily limit, the card being frozen, or the merchant's payment terminal flagging the transaction for manual review. Declined transactions do not incur a fee.\n2.5 Credit Cards Sunrise Bank's credit card product (Sunrise Rewards Card) has a variable APR between 21.9% and 34.9%, depending on the applicant's credit assessment. It offers 1% cashback on all purchases and has no annual fee for the first 12 months.",
+      "4.4 Fraud Protection Sunrise Bank guarantees to reimburse customers for unauthorised transactions reported within 13 months, provided the customer has not acted fraudulently or with gross negligence (e.g. sharing their PIN or one-time passcode with someone else).\n4.5 Fee Summary Sunrise Bank does not charge monthly account fees on the Everyday or Plus Account. Fees apply only for unarranged overdraft use, international card transactions (2.5% of transaction value), and replacement cards requested for reasons other than loss/theft (£5 per card)."
+    ]
+  }
+]

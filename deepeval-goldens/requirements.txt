@@ -1,0 +1,6 @@
+# deepeval-goldens: synthetic golden dataset generation
+# generate_from_contexts.py also imports rag-evals/src, so install rag-evals/requirements.txt too.
+# Install: uv pip install -r deepeval-goldens/requirements.txt
+deepeval==4.1.9
+pypdf==6.16.1
+python-dotenv==1.2.3

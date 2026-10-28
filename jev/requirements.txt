@@ -1,0 +1,5 @@
+# jev: TypeSafe SDK experiments
+# Install: uv pip install -r jev/requirements.txt
+openai==3.3.0
+python-dotenv==1.2.3
+typesafe-sdk==0.7.2
